@@ -14,12 +14,16 @@ We are developing several machine learning models based on the BRFSS dataset. Th
 
 a. Stroke Prediction Model:
 Predicts the likelihood of an individual suffering from a stroke based on factors such as age, BMI, smoking status, and exercise habits.
+
 b. Heart Disease Prediction Model:
 Predicts the probability of developing heart disease using features like cholesterol levels, blood pressure, and lifestyle behaviors.
+
 c. Diabetes Prediction Model:
 Identifies individuals at risk for Type 2 diabetes based on factors such as BMI, physical activity, and diet.
+
 d. Mental Health Risk Prediction:
 Assesses the likelihood of experiencing anxiety or depression based on socioeconomic and behavioral factors.
+
 e. Smoking Cessation Prediction:
 Predicts whether individuals are likely to quit smoking based on their current habits, demographics, and healthcare support.
 
