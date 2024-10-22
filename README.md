@@ -5,27 +5,27 @@ Key Components
 1. Real-Time Data Processing
 We ingest real-time data from multiple platforms, including:
 
-On-prem systems (e.g., CSV files stored locally and streamed to the cloud)
-APIs (e.g., RESTful APIs that provide real-time data feeds)
-Cloud platforms (e.g., Google Cloud Storage)
+  On-prem systems (e.g., CSV files stored locally and streamed to the cloud)
+  APIs (e.g., RESTful APIs that provide real-time data feeds)
+  Cloud platforms (e.g., Google Cloud Storage)
 
 2. Machine Learning Models
 We are developing several machine learning models based on the BRFSS dataset. These models focus on predicting health risks and identifying behavioral patterns. The following models will be part of this project:
 
-a. Stroke Prediction Model:
-Predicts the likelihood of an individual suffering from a stroke based on factors such as age, BMI, smoking status, and exercise habits.
+  a. Stroke Prediction Model:
+  Predicts the likelihood of an individual suffering from a stroke based on factors such as age, BMI, smoking status, and exercise habits.
 
-b. Heart Disease Prediction Model:
-Predicts the probability of developing heart disease using features like cholesterol levels, blood pressure, and lifestyle behaviors.
+  b. Heart Disease Prediction Model:
+  Predicts the probability of developing heart disease using features like cholesterol levels, blood pressure, and lifestyle behaviors.
 
-c. Diabetes Prediction Model:
-Identifies individuals at risk for Type 2 diabetes based on factors such as BMI, physical activity, and diet.
+  c. Diabetes Prediction Model:
+  Identifies individuals at risk for Type 2 diabetes based on factors such as BMI, physical activity, and diet.
 
-d. Mental Health Risk Prediction:
-Assesses the likelihood of experiencing anxiety or depression based on socioeconomic and behavioral factors.
+  d. Mental Health Risk Prediction:
+  Assesses the likelihood of experiencing anxiety or depression based on socioeconomic and behavioral factors.
 
-e. Smoking Cessation Prediction:
-Predicts whether individuals are likely to quit smoking based on their current habits, demographics, and healthcare support.
+  e. Smoking Cessation Prediction:
+  Predicts whether individuals are likely to quit smoking based on their current habits, demographics, and healthcare support.
 
 
 3. MLOps Implementation
