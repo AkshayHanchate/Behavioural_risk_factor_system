@@ -2,7 +2,7 @@
 This project involves the real-time data ingestion, processing, and analysis of the Behavioral Risk Factor Surveillance System (BRFSS) dataset. The BRFSS is a large dataset focusing on public health risk factors. The goal of this project is to implement real-time data processing pipelines, develop predictive machine learning models, and deploy MLOps practices to automate and monitor these models. The data visualization will be performed using Power BI.
 
 Key Components
-# 1. Real-Time Data Processing
+### 1. Real-Time Data Processing
 We ingest real-time data from multiple platforms, including:
 
   On-prem systems (e.g., CSV files stored locally and streamed to the cloud)
