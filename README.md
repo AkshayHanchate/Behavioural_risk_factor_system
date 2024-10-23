@@ -1,4 +1,4 @@
-Overview
+### Overview
 This project involves the real-time data ingestion, processing, and analysis of the Behavioral Risk Factor Surveillance System (BRFSS) dataset. The BRFSS is a large dataset focusing on public health risk factors. The goal of this project is to implement real-time data processing pipelines, develop predictive machine learning models, and deploy MLOps practices to automate and monitor these models. The data visualization will be performed using Power BI.
 
 Key Components
@@ -9,7 +9,7 @@ We ingest real-time data from multiple platforms, including:
   APIs (e.g., RESTful APIs that provide real-time data feeds)
   Cloud platforms (e.g., Google Cloud Storage)
 
-# 2. Machine Learning Models
+### 2. Machine Learning Models
 We are developing several machine learning models based on the BRFSS dataset. These models focus on predicting health risks and identifying behavioral patterns. The following models will be part of this project:
 
 a. Stroke Prediction Model:
@@ -28,7 +28,7 @@ e. Smoking Cessation Prediction:
 Predicts whether individuals are likely to quit smoking based on their current habits, demographics, and healthcare support.
 
 
-# 3. MLOps Implementation
+### 3. MLOps Implementation
 This project implements MLOps (Machine Learning Operations) to automate the deployment, monitoring, and maintenance of machine learning models in production. The MLOps pipeline ensures that real-time data is continuously fed into the models, predictions are updated, and model performance is monitored.
 
 MLOps Features:
@@ -38,7 +38,7 @@ Continuous integration and deployment (CI/CD) pipeline for deploying models
 Error handling and logging to track model performance over time
 
 
-# 4. Data Visualization using Power BI
+### 4. Data Visualization using Power BI
 Once the data has been processed and the models have been deployed, the results will be visualized using Power BI. The dashboards will provide insights into public health risk factors, showing predictions for chronic diseases, mental health, and other behavioral risks.
 
 Features:
